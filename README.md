@@ -10,14 +10,20 @@ Contents
 Machine Reports:
 
 1-Relevant Report: Reports for relevant machines from TryHackMe (THM)
+
 2-MonitorsThree Report: Report for "Monitors 3" from Hack The Box (HTB)
 Presentations:
 
 3-Technical_Presentation/(Penetration-Testing-MonitorsThree-and-Relevant-Machines): Detailed analysis of two machines, including key findings, vulnerabilities, business impact, and mitigations.
+
 4-Personal_Growth_Presentation/(DEPI group4): Reflections on valuable skills and experiences gained during the Junior and Offensive Penetration Tester Tracks, including machine details.
 
-Team Members 
-1-Yara Mohy 
+Team Members
+
+1-Yara Mohy
+
 2-Hazem Mohy 
+
 3-Ethar Hassan 
+
 4-AbdElrahman A. Esmat
