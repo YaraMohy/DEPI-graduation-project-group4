@@ -6,14 +6,15 @@ This repository contains our graduation project for the Digital Egypt Pioneers I
 Project Highlights: Objective and Setup: Establish secure lab environments on Hack The Box and TryHackMe to simulate realistic testing conditions. Vulnerability Identification: Detailed vulnerability scans, using industry-standard tools, to identify and understand each machine's exploitable points. Exploit Execution: Applying ethical hacking practices to exploit identified vulnerabilities, documenting attack paths, and demonstrating the risk posed by these weaknesses. Reporting and Documentation: This repository contains comprehensive reports on each machine, outlining each phase—from discovery to exploitation and suggested remediation strategies. These reports offer a structured approach to tackling complex vulnerabilities, providing insights for security professionals and enthusiasts.
 
 Contents
+
 Machine Reports:
 
-Relevant Report: Reports for relevant machines from TryHackMe (THM)
-MonitorsThree Report: Report for "Monitors 3" from Hack The Box (HTB)
+1-Relevant Report: Reports for relevant machines from TryHackMe (THM)
+2-MonitorsThree Report: Report for "Monitors 3" from Hack The Box (HTB)
 Presentations:
 
-Technical_Presentation/(Penetration-Testing-MonitorsThree-and-Relevant-Machines): Detailed analysis of two machines, including key findings, vulnerabilities, business impact, and mitigations.
-Personal_Growth_Presentation/(DEPI group4): Reflections on valuable skills and experiences gained during the Junior and Offensive Penetration Tester Tracks, including machine details.
+3-Technical_Presentation/(Penetration-Testing-MonitorsThree-and-Relevant-Machines): Detailed analysis of two machines, including key findings, vulnerabilities, business impact, and mitigations.
+4-Personal_Growth_Presentation/(DEPI group4): Reflections on valuable skills and experiences gained during the Junior and Offensive Penetration Tester Tracks, including machine details.
 
 Team Members 
 1-Yara Mohy 
